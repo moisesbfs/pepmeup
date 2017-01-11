@@ -8,4 +8,4 @@ layout: page
 permalink: http://pepmeup.ie/add-recipe/
 published: true
 ---
-[ultimate-recipe-submissions]
+[recipe_hero_submit]
